@@ -1,0 +1,1 @@
+Extraction de données de sites web cinématographique afin d'en tirer des éléments permettant de comparer plusieurs films choisis par un utilisateur.
